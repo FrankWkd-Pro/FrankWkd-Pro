@@ -26,3 +26,5 @@ jobs:
           if git commit -m "generated"; then
             git push
           fi
+      - name: GitHub-Profile-Summary-Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
