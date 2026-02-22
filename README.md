@@ -1,4 +1,4 @@
-
+	
 
 <div style="text-align: center; margin-top: 2rem;">
   <h1 style="font-size: 3rem; background: linear-gradient(90deg, #2563eb, #93c5fd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: drop-shadow(0 0 10px rgba(37, 99, 235, 0.3));">
@@ -8,8 +8,9 @@
 </div>
 
 ---
+###### Latest Upd 2026.02.22
 # Welcome to My Blog!🎉
-![[attachments/Pasted image 20260206093915.png]]
+##### ![[attachments/Pasted image 20260206093915.png]]
 ## 🤔 About Me
 - Student & Developer
 - 喜欢研究新事物，热衷于折腾！
@@ -34,6 +35,7 @@
 ---
 
 ## 🏗️ Projects
+
 * 🛵 **CDK Management System**: 基于 Cloudflare Worker 的分发系统。
 * 🤖 **Telegram Gemini Bot**: 基于 GeminiAPI 自动化响应的 AI 机器人。
 * 🖥️ **Linux Setup**: 针对旧版 iMac x64 的 Linux Mint 深度定制。
@@ -44,11 +46,11 @@
 * 🕸️ `Private`[CF Edge Node](https://sub.frankwkd2026.dpdns.org/): 利用 CF 边缘节点代理流量并声生成节点
 * 🔮 `Private`[Sublink Pro](http://35.212.138.172:8000/dashboard/default): 基于开源项目二次开发的订阅管理系统&节点分发系统，由 GCP 托管。
 * 🛡️ [Website Proxy](https://proxy.frankwkd2026.dpdns.org/): 使用 Cloudflare Workers 进行网站反代
-* 👀 `Private`[云服务器探针](https://status.frankwkd2026.dpdns.org): 利用 Beszel 框架开发的探针&资源监控，使用 Cloudflared Tunnel 进行端口转发。
+* 👀 `Private`[云服务器探针](http://172.245.11.238:20121/): 利用 Beszel 框架开发的探针&资源监控，使用 Cloudflared Tunnel 进行端口转发。
 * 📜 [Personal Blog](https://blog.frankwkd2026.dpdns.org): 基于 Quartz 4 框架开发的博客网站
+* 👁 [Uptime Dashboard](https://status.frankwkd2026.dpdns.org/)：基于CF Worker计算服务搭建的网页&服务器在线状态监控面板
 
 > [!warning] 已经全域部署 Cloudflare Turnstile 攻击防护！
-
 ---
 ## 🔎Fine me here
 
@@ -59,4 +61,3 @@
 - Telegram: tg@frankwkd_pro
 - CodeForces: [FrankWkd](https://codeforces.com/profile/FrankWkd)
 ---
-[![D:OutwardlyVerse profile views](https://u8views.com/api/v1/github/profiles/218350533/views/day-week-month-total-count.svg)](https://u8views.com/github/FrankWkd-Pro)
